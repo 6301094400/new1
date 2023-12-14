@@ -1,2 +1,2 @@
 this file is created in dev branch`:wq
-
+this is a second line added from dev branch
