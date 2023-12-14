@@ -1,2 +1,3 @@
 this file is created in dev branch`:wq
-this is a second line added from dev branch
+this is added in dev branch
+his is a second line added from dev branc
